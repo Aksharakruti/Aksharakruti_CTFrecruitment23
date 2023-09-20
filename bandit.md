@@ -43,4 +43,34 @@
 - using grep command
 - ```grep - to search a perticular in a file```
 - password ```TESKZC0XvTetK0S9xNwm25STk5iWrBvP```
-- 
+- #### level 8- 9
+- a big data.txt file will be given with one key
+- ``` sort key is used to sort out the file in alphabetical order```
+- ```uniq is used to remove any duplicate files and give the unique code of the rest```
+- pass ```EN632PlfYiZbn3PhVK3XOGSlNInNE00t```
+- #### level 9-10
+- ```string is used to translate the ciper text to a readable text```
+- the words next to "===" is the pass ```G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s```
+- #### level 10-11
+- asked to decode the info in base64
+- password ```6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM```
+- #### level 11-12
+- ```tr is used to decrypt the encrypted cypher```
+- pass ```JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv```
+- #### level 12-13
+- pass ```wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw```
+- #### level 13-14
+- change the host
+- pass ```fGrHPx402xGC7U7rXKDaxiWFTOiF0ENq```
+- #### level 14-15
+- pass ```jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt```
+- #### 15-16
+- pass ```JQttfApK4SeyHwDlI9SXGR50qclOAil1```
+- #### 16-17
+- pass ```glZreTEH1V3cGKL6g4conYqZqaEj0mte
+          hga5tuuCLF6fFzUpnagiMN8ssu9LFrdg```
+- #### 17-18
+- pass```awhqfNnAbc1naukrpqDYcF95h7HoMTrC```
+- #### 18-19
+- pass ```VxCazJaVykI6W36BkBU0mJTCM8rR95XT```
+- ### FLAG - (bi0s{gg_now_go_solve_the_n3xt_challenge_71874681374613})
