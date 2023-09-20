@@ -11,4 +11,4 @@
 - Then I ran the code.
 - Finally I got the flag.
   ## FLAG -  "flag{t0mat0_!s_7he_imp0st3rYh3r3}"
-IMAGE-https://github.com/Aksharakruti/Aksharakruti_CTFrecruitment23/blob/main/screenshots/fruitninja.png
+![img](https://github.com/Aksharakruti/Aksharakruti_CTFrecruitment23/blob/main/screenshots/fruitninja.png)
