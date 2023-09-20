@@ -12,4 +12,6 @@
 - Then you can see that the whole text on the right is being selected
 - Then when i right click on the "JPEG File Interchange Format", I will find an option call export packet bytes, like this 
 - ![img](https://github.com/Aksharakruti/Aksharakruti_CTFrecruitment23/blob/main/screenshots/packt.png.jpeg)
+- After clicking on that we shall save the file with ".jpg" in the end
+- And after the file is saved, open the file to view the flag which is given in an image format
 ## FLAG- "bi0s{w1r35h4rk_exp0rts_1s_c00l}"
