@@ -8,13 +8,13 @@
 - We need to find the minimun number of future assignments to recieve a final grade of 10
 - So I wrote the code as follows
 - ![img](https://github.com/Aksharakruti/Aksharakruti_CTFrecruitment23/blob/main/screenshots/toget10.png.jpeg)
-- After running the code i entered the values
+- After running the code I entered the values
 - ```Enter the number of grades: 2```
 - ```Enter the grade : 8 9```
 - ```Minimum number of future assignments needed is 4``` is the output
-- After getting the result which i needed i copied the code into notepad and saved it in the format given in the google form
-- Then i submitted the code
-- Finally i got the flag
+- After getting the result which I needed I copied the code into notepad and saved it in the format given in the google form
+- Then I submitted the code
+- Finally I got the flag
 - ## FLAG- bi0s{hmm_was_it_too_easy?_93817418419effd}
   
   
