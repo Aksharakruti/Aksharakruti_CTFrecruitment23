@@ -14,4 +14,5 @@
 - ![img](https://github.com/Aksharakruti/Aksharakruti_CTFrecruitment23/blob/main/screenshots/packt.png.jpeg)
 - After clicking on that we shall save the file with ".jpg" in the end
 - And after the file is saved, open the file to view the flag which is given in an image format
+- Finally i got the flag
 ## FLAG- "bi0s{w1r35h4rk_exp0rts_1s_c00l}"
