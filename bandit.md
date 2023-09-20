@@ -17,6 +17,30 @@
 - #### From level 1- level 2
 - Again using the same ssh command log in to the next level and enter the password of the previous level
 - Using the same commands and a new command called cat ./file_name
+- And ls -l
 - ```cat ./  - to display the content of a file```
+- ``` ls -l is used to list the files inside a folder```
 - Then we get the password for the next level ``` rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi```
+- #### level 2 - level 3
+- just by using ls and cat commands we will get the password for the next level
+- ```aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG```
+- #### level 3 - level 4
+- ```using the cd command you can change the working directory```
+- ```using the ls -a command is used to not ignore entries strting with a "."```
+- ```realpath is used to convert each file name to a path name ```
+- password ```2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe```
+- #### level 4 - level 5
+- ``` file ./* is used to display the types of all the files or directories```
+- then you will find ascii text in file07
+- then cat the file07 to get the password ```lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR```
+- #### level 5 -level 6
+- ```Find - command is used to find filter an search for folders and file with a perticular needs```
+- password ```P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU```
+- #### level 6 - level 7 
+- using the same cat command we can find the password for the next level also
+- ```z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S```
+- #### level 7 - level 8
+- using grep command
+- ```grep - to search a perticular in a file```
+- password ```TESKZC0XvTetK0S9xNwm25STk5iWrBvP```
 - 
