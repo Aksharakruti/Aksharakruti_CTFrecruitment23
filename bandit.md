@@ -1,3 +1,22 @@
 # Bandit
 ```misc```
 -
+- #### From level 0- level 1
+- The user name and the password for this level is already given by them
+- They have asked us to use the ssh command
+- ```ssh - is used  to securely log into a remote machine and execute commands on that machine```
+- The format in which we need to use the ssh is "user@bandit.labs.overthewire.org -p port"
+- In this case the format is bandit0@bandit.labs.overthewire.org -p 2220
+- After getting into the port use the command ls
+- ```ls - is used to list files```
+- After which i used cat command
+- ```cat - is used to to display the content of a file```
+- Then i received the password for the first level
+- ```NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL```
+- type exit to get into the next level
+- #### From level 1- level 2
+- Again using the same ssh command log in to the next level and enter the password of the previous level
+- Using the same commands and a new command called cat ./file_name
+- ```cat ./  - to display the content of a file```
+- Then we get the password for the next level ``` rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi```
+- 
