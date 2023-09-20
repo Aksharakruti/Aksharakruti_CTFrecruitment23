@@ -10,4 +10,5 @@
 - As it was given in a comment which it should'nt have been,I removed the # in front and in the place of (flag{REDACTED}) i replaced it with the ciphertext given in the ciphertext file 
 - Then I ran the code.
 - Finally I got the flag.
+  ![img](https://github.com/Aksharakruti/Aksharakruti_CTFrecruitment23/blob/main/screenshots/fruit%20ninja.jpeg)
   ## FLAG -  "flag{t0mat0_!s_7he_imp0st3rYh3r3}"
