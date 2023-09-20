@@ -1,7 +1,7 @@
 #  Packet_Sniffing
 ```forensic```
 -----
-- Firstly as soon as I opened the challenge I started to read the discription.
+- Firstly as soon as I opened the challenge I started to read the description.
 - After reading the discription I downloaded wireshark from google then I clicked on view attachments and downloaded the file.
 - ```Packet_Sniffing.pcap```
 - After downloading the file I clicked on view file and it will directly open in wireshark app
