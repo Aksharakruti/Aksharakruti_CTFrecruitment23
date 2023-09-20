@@ -1,0 +1,7 @@
+- Firstly as soon as I opened the challenge I started reading the description
+- Then I found out that the code should be written in C language
+- So I opened an online C Compiler to code for the challenge
+- In the description of the challenge it is given that we have to assume that we will receive all 10's in the future assignments
+- We need to find the minimun number of future assignments to recieve a final grade of 10
+- So I wrote the code as follows
+- ![img](
